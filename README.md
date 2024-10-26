@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Wassup, homie</h1>
-
-<p>Welcome to my page!</br>I'm Aleksey, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" width="13"/><b> Orenburg, Russia</b></p>
-<h2>Things I code with</h2>
+<p align="center">Welcome to my page!</br>I'm Aleksey, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" width="13"/><b> Orenburg, Russia</b></p>
+<img alt="Pixel Art" src="https://github.com/Insan111ty/Insan111ty/blob/main/pixel1.gif?raw=true"></img>
+<h2>Technology Stack:</h2>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-46a2f1?style=flat-square&logo=python&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-659ad2?style=flat-square&logo=Cplusplus&logoColor=white" />
@@ -31,4 +31,9 @@
  - Neural web (NLTK)</br>
  - Reverse Engeneering</br>
 <br>
+
+<h2>My GitHub Stats:</h2>
+<p align="center">
+  <img alt="Guthub Stats" src="https://github-readme-stats.vercel.app/api?username=insan111ty&theme=apprentice&show_icons=true"></img>
+</p>
 > MADE WITH LOVE BY INSAN1TY
